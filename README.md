@@ -1,5 +1,9 @@
+<div align="center">
+
 # Glossary
-📜 All Glossary me and you Need ! 📜
+## 📜 All Glossary me and you Need ! 📜
+
+</div>
 
 
 - [Security](https://github.com/Anlominus/Glossary/blob/main/Security.md)
