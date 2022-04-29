@@ -8,4 +8,5 @@
 
 - [Security](https://github.com/Anlominus/Glossary/blob/main/Security.md)
 - [Developer](https://github.com/Anlominus/Glossary/blob/main/Developer.md)
+- [Cyber](https://github.com/Anlominus/Glossary/blob/main/Cyber.md)
 
