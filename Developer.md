@@ -243,3 +243,7 @@
     </div>
   </footer>
 </article>
+
+---
+
+- [SOURCE](https://www.wholewhale.com/tips/developer-terms-glossary/)
